@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sistemaDeVentasProyecto"
+    }
+  },
+  "defaultProject": "sistemaDeVentasProyecto",
+  "cli": {
+    "analytics": false
+  }
 }
